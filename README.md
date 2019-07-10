@@ -10,6 +10,7 @@ Allenxuxu 的个人博客
 
 ### 最新
 
+* [Go 实现优先级队列](https://note.mogutou.xyz/articles/2019/07/10/1562720763131.html)
 * [Golang实现默认参数](https://note.mogutou.xyz/articles/2019/06/27/1561595947632.html)
 * [ 【GO-Micro】服务健康检查](https://note.mogutou.xyz/articles/2019/06/24/1561380283681.html)
 * [【GO-Micro】 micro API 网关增加JWT鉴权功能](https://note.mogutou.xyz/articles/2019/06/24/1561380135633.html)
