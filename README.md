@@ -10,6 +10,7 @@ Allenxuxu 的个人博客
 
 ### 最新
 
+* [Docker Swarm 部署 micro 微服务应用 ](https://note.mogutou.xyz/articles/2019/07/18/1563453904693.html)
 * [Golang实现默认参数](https://note.mogutou.xyz/articles/2019/06/27/1561595947632.html)
 * [ 【GO-Micro】服务健康检查](https://note.mogutou.xyz/articles/2019/06/24/1561380283681.html)
 * [【GO-Micro】 micro API 网关增加JWT鉴权功能](https://note.mogutou.xyz/articles/2019/06/24/1561380135633.html)
