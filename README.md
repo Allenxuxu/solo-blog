@@ -10,6 +10,11 @@ Allenxuxu 的个人博客
 
 ### 最新
 
+* [【极简Golang入门】函数](https://note.mogutou.xyz/articles/2019/08/04/1564914678382.html)
+* [【极简Golang入门】控制结构](https://note.mogutou.xyz/articles/2019/08/04/1564914572901.html)
+* [【极简Golang入门】基本数据类型和要素](https://note.mogutou.xyz/articles/2019/08/04/1564914401205.html)
+* [【极简Golang入门】Hello World](https://note.mogutou.xyz/articles/2019/08/04/1564914182581.html)
+* [【极简Golang入门】Go 的主要特点](https://note.mogutou.xyz/articles/2019/08/04/1564913986055.html)
 * [开源一个小项目--进存销售系统](https://note.mogutou.xyz/articles/2019/07/28/1564281900869.html)
 * [Docker Swarm 部署 micro 微服务应用 ](https://note.mogutou.xyz/articles/2019/07/18/1563453904693.html)
 * [Golang实现默认参数](https://note.mogutou.xyz/articles/2019/06/27/1561595947632.html)
