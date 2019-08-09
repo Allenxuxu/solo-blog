@@ -10,6 +10,7 @@ Allenxuxu 的个人博客
 
 ### 最新
 
+* [epoll 详解](https://note.mogutou.xyz/articles/2019/08/08/1565229171388.html)
 * [Golang 高性能网络库 evio 源码解析](https://note.mogutou.xyz/articles/2019/08/06/1565053139105.html)
 * [【极简Golang入门】函数](https://note.mogutou.xyz/articles/2019/08/04/1564914678382.html)
 * [【极简Golang入门】控制结构](https://note.mogutou.xyz/articles/2019/08/04/1564914572901.html)
