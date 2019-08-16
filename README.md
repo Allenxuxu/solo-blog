@@ -10,6 +10,7 @@ Allenxuxu 的个人博客
 
 ### 最新
 
+* [Golang 网络库 evio 一些问题/bug和思考](https://note.mogutou.xyz/articles/2019/08/15/1565876205121.html)
 * [epoll 详解](https://note.mogutou.xyz/articles/2019/08/08/1565229171388.html)
 * [Golang 高性能网络库 evio 源码解析](https://note.mogutou.xyz/articles/2019/08/06/1565053139105.html)
 * [【极简Golang入门】函数](https://note.mogutou.xyz/articles/2019/08/04/1564914678382.html)
