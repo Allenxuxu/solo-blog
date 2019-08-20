@@ -10,6 +10,8 @@ Allenxuxu 的个人博客
 
 ### 最新
 
+* [Ubuntu 18.04 固定软件图标到侧边栏](https://note.mogutou.xyz/articles/2019/08/20/1566260307439.html)
+* [【极简Golang入门】并发编程](https://note.mogutou.xyz/articles/2019/08/19/1566219698243.html)
 * [Golang 网络库 evio 一些问题/bug和思考](https://note.mogutou.xyz/articles/2019/08/15/1565876205121.html)
 * [epoll 详解](https://note.mogutou.xyz/articles/2019/08/08/1565229171388.html)
 * [Golang 高性能网络库 evio 源码解析](https://note.mogutou.xyz/articles/2019/08/06/1565053139105.html)
