@@ -10,6 +10,7 @@ Allenxuxu 的个人博客
 
 ### 最新
 
+* [Go channel 拷贝问题](https://note.mogutou.xyz/articles/2019/08/21/1566389259093.html)
 * [拥抱Go module](https://note.mogutou.xyz/articles/2019/08/20/1566313561719.html)
 * [Ubuntu 18.04 固定软件图标到侧边栏](https://note.mogutou.xyz/articles/2019/08/20/1566260307439.html)
 * [【极简Golang入门】并发编程](https://note.mogutou.xyz/articles/2019/08/19/1566219698243.html)
