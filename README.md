@@ -10,6 +10,7 @@ Allenxuxu 的个人博客
 
 ### 最新
 
+* [Golang 项目使用 Github Actions](https://note.mogutou.xyz/articles/2019/09/05/1567681138418.html)
 * [Go channel 拷贝问题](https://note.mogutou.xyz/articles/2019/08/21/1566389259093.html)
 * [拥抱Go module](https://note.mogutou.xyz/articles/2019/08/20/1566313561719.html)
 * [Ubuntu 18.04 固定软件图标到侧边栏](https://note.mogutou.xyz/articles/2019/08/20/1566260307439.html)
@@ -29,6 +30,9 @@ Allenxuxu 的个人博客
 * [【GO-Micro】jaeger分布式链路追踪](https://note.mogutou.xyz/articles/2019/06/24/1561380020624.html)
 * [【GO-Micro】hystrix熔断及dashboard展示](https://note.mogutou.xyz/articles/2019/06/20/1561018626474.html)
 * [【GO-Micro】micro 重试机制](https://note.mogutou.xyz/articles/2019/06/20/1561018083376.html)
+
+### 热门
+
 * [我在 GitHub 上的开源项目](https://note.mogutou.xyz/my-github-repos)
 
 
