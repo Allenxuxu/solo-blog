@@ -12,7 +12,7 @@
 
 * [Uber Go 风格指南(译)](https://note.mogutou.xyz/articles/2019/10/13/1570978862812.html)
 * [Go 网络库并发吞吐量测试](https://note.mogutou.xyz/articles/2019/09/22/1569146969662.html)
-* [gev: Go 实现基于 Reactor 模式的非阻塞 TCP 网络库](https://note.mogutou.xyz/articles/2019/09/19/1568896693634.html)
+* [开源 gev: Go 实现基于 Reactor 模式的非阻塞 TCP 网络库](https://note.mogutou.xyz/articles/2019/09/19/1568896693634.html)
 * [Go net/http 浅析](https://note.mogutou.xyz/articles/2019/09/15/1568526293244.html)
 * [Golang 项目使用 Github Actions](https://note.mogutou.xyz/articles/2019/09/05/1567681138418.html)
 * [Go channel 拷贝问题](https://note.mogutou.xyz/articles/2019/08/21/1566389259093.html)
