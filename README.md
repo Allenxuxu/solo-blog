@@ -10,8 +10,9 @@
 
 ### 最新
 
+* [二叉堆与堆排序](https://www.mogutou.xyz/articles/2020/05/30/1590811456517.html)
 * [二叉树的遍历（递归，迭代）](https://www.mogutou.xyz/articles/2020/04/26/1587906162356.html)
-* [go chan 百式](https://www.mogutou.xyz/articles/2020/04/24/1587730652810.html)
+* [go chan 实用示例](https://www.mogutou.xyz/articles/2020/04/24/1587730652810.html)
 * [【CI/CD 实践】 Github Actions 配置 CI/CD 自动发布 docker 镜像 ](https://www.mogutou.xyz/articles/2020/04/02/1585835651303.html)
 * [go-micro 动态加载插件源码分析](https://www.mogutou.xyz/articles/2020/03/28/1585405247774.html)
 * [XConf : Golang 构建的开源分布式配置中心 ](https://www.mogutou.xyz/articles/2020/02/08/1581137075011.html)
@@ -29,7 +30,6 @@
 * [Golang 网络库 evio 一些问题/bug和思考](https://www.mogutou.xyz/articles/2019/08/15/1565876205121.html)
 * [Golang 高性能网络库 evio 源码解析](https://www.mogutou.xyz/articles/2019/08/06/1565053139105.html)
 * [【极简Golang入门】函数](https://www.mogutou.xyz/articles/2019/08/04/1564914678382.html)
-* [【极简Golang入门】控制结构](https://www.mogutou.xyz/articles/2019/08/04/1564914572901.html)
 
 ### 热门
 
@@ -43,6 +43,7 @@
 * [【GO-Micro】hystrix熔断及dashboard展示](https://www.mogutou.xyz/articles/2019/06/20/1561018626474.html)
 * [我在 GitHub 上的开源项目](https://www.mogutou.xyz/my-github-repos)
 * [【极简Golang入门】Go 的主要特点](https://www.mogutou.xyz/articles/2019/08/04/1564913986055.html)
+* [【极简Golang入门】控制结构](https://www.mogutou.xyz/articles/2019/08/04/1564914572901.html)
 * [【极简Golang入门】Hello World](https://www.mogutou.xyz/articles/2019/08/04/1564914182581.html)
 * [【极简Golang入门】基本数据类型和要素](https://www.mogutou.xyz/articles/2019/08/04/1564914401205.html)
 
