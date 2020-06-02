@@ -2,7 +2,7 @@
 徐旭 的个人博客
 </h2>
 
-<h4 align="center">记录点点滴滴</h4>
+<h4 align="center">礼法岂是为吾辈而设</h4>
 <p align="center"><a title="徐旭 的个人博客" target="_blank" href="https://github.com/Allenxuxu/solo-blog"><img src="https://img.shields.io/github/last-commit/Allenxuxu/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Allenxuxu/solo-blog"><img src="https://img.shields.io/github/repo-size/Allenxuxu/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.1.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -11,7 +11,7 @@
 ### 最新
 
 * [二叉堆与堆排序](https://www.mogutou.xyz/articles/2020/05/30/1590811456517.html)
-* [二叉树的遍历（递归，迭代）](https://www.mogutou.xyz/articles/2020/04/26/1587906162356.html)
+* [二叉树的遍历模版（递归，迭代）](https://www.mogutou.xyz/articles/2020/04/26/1587906162356.html)
 * [go chan 实用示例](https://www.mogutou.xyz/articles/2020/04/24/1587730652810.html)
 * [【CI/CD 实践】 Github Actions 配置 CI/CD 自动发布 docker 镜像 ](https://www.mogutou.xyz/articles/2020/04/02/1585835651303.html)
 * [go-micro 动态加载插件源码分析](https://www.mogutou.xyz/articles/2020/03/28/1585405247774.html)
