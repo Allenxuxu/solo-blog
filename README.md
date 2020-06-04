@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [golang protobuf 字段为零值时 json 序列化忽略问题](https://www.mogutou.xyz/articles/2020/06/02/1591110786429.html)
 * [二叉堆与堆排序](https://www.mogutou.xyz/articles/2020/05/30/1590811456517.html)
 * [二叉树的遍历模版（递归，迭代）](https://www.mogutou.xyz/articles/2020/04/26/1587906162356.html)
 * [go chan 实用示例](https://www.mogutou.xyz/articles/2020/04/24/1587730652810.html)
@@ -29,7 +30,6 @@
 * [【极简Golang入门】并发编程](https://www.mogutou.xyz/articles/2019/08/19/1566219698243.html)
 * [Golang 网络库 evio 一些问题/bug和思考](https://www.mogutou.xyz/articles/2019/08/15/1565876205121.html)
 * [Golang 高性能网络库 evio 源码解析](https://www.mogutou.xyz/articles/2019/08/06/1565053139105.html)
-* [【极简Golang入门】函数](https://www.mogutou.xyz/articles/2019/08/04/1564914678382.html)
 
 ### 热门
 
@@ -44,6 +44,7 @@
 * [我在 GitHub 上的开源项目](https://www.mogutou.xyz/my-github-repos)
 * [【极简Golang入门】Go 的主要特点](https://www.mogutou.xyz/articles/2019/08/04/1564913986055.html)
 * [【极简Golang入门】控制结构](https://www.mogutou.xyz/articles/2019/08/04/1564914572901.html)
+* [【极简Golang入门】函数](https://www.mogutou.xyz/articles/2019/08/04/1564914678382.html)
 * [【极简Golang入门】Hello World](https://www.mogutou.xyz/articles/2019/08/04/1564914182581.html)
 * [【极简Golang入门】基本数据类型和要素](https://www.mogutou.xyz/articles/2019/08/04/1564914401205.html)
 
