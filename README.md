@@ -5,11 +5,12 @@
 <h4 align="center">礼法岂是为吾辈而设</h4>
 <p align="center"><a title="徐旭 的个人博客" target="_blank" href="https://github.com/Allenxuxu/solo-blog"><img src="https://img.shields.io/github/last-commit/Allenxuxu/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Allenxuxu/solo-blog"><img src="https://img.shields.io/github/repo-size/Allenxuxu/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/Allenxuxu/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [git 修改已经 commit 的邮箱信息](https://www.mogutou.xyz/articles/2020/09/10/1599700014300.html)
 * [golang protobuf 字段为零值时 json 序列化忽略问题](https://www.mogutou.xyz/articles/2020/06/02/1591110786429.html)
 * [二叉堆与堆排序](https://www.mogutou.xyz/articles/2020/05/30/1590811456517.html)
 * [二叉树的遍历模版（递归，迭代）](https://www.mogutou.xyz/articles/2020/04/26/1587906162356.html)
@@ -29,7 +30,6 @@
 * [Ubuntu 18.04 固定软件图标到侧边栏](https://www.mogutou.xyz/articles/2019/08/20/1566260307439.html)
 * [【极简Golang入门】并发编程](https://www.mogutou.xyz/articles/2019/08/19/1566219698243.html)
 * [Golang 网络库 evio 一些问题/bug和思考](https://www.mogutou.xyz/articles/2019/08/15/1565876205121.html)
-* [Golang 高性能网络库 evio 源码解析](https://www.mogutou.xyz/articles/2019/08/06/1565053139105.html)
 
 
 
